@@ -12,5 +12,7 @@ public class ContactPage {
         System.out.println("Please look below for the info");
 
         System.out.println("We have a Youtube channel");
+
+        System.out.println("All questions should be forwarded to our email Cydeo@Java.script");
     }
 }
