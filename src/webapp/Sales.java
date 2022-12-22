@@ -12,5 +12,7 @@ public class Sales {
 
         System.out.println("Carter items is all 10$ or less");
 
+        System.out.println("HOLIDAY SALES UP TO 99.99%!!!");
+
     }
 }
