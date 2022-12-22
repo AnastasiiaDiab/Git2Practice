@@ -11,5 +11,9 @@ public class Cart {
         }else{
             System.out.println("Please see the cashier");
         }
+
+        System.out.println("Please check our discounts");
+
+        System.out.println("Christmas is after tomorrrrrow!");
     }
 }
