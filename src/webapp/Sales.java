@@ -8,5 +8,7 @@ public class Sales {
 
         System.out.println("50% OFF all red tags!");
 
+        System.out.println("SALE UNTIL JANUARY 1ST!");
+
     }
 }
