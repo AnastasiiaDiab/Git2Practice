@@ -10,5 +10,7 @@ public class ContactPage {
         System.out.println("Contact page");
 
         System.out.println("Please look below for the info");
+
+        System.out.println("We have a Youtube channel");
     }
 }
