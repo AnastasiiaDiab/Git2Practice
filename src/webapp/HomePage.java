@@ -14,5 +14,9 @@ public class HomePage {
 
         System.out.println("You can leave a feedback in the window below");
 
+        System.out.println("CYDEO LOGO");
+
+        //add footer
+
     }
 }
