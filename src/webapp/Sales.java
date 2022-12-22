@@ -10,5 +10,7 @@ public class Sales {
 
         System.out.println("SALE UNTIL JANUARY 1ST!");
 
+        System.out.println("Carter items is all 10$ or less");
+
     }
 }
